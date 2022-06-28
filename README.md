@@ -22,7 +22,7 @@ Using Spark and Amazon RDS to clean and summarize amazon reviews to determine us
 <br>
 
 ## Data Source  
-Not applicable
+All datasets can be found at https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt
 
 <br>
 
