@@ -2,7 +2,8 @@
 
 Author:  Erin James Wills - ejw.data@gmail.com    
 
-![](./images/amazon-reviews-google-colab.png)
+![](./images/amazon-reviews-google-colab.png)  
+<cite>Photo by [Mika Baumeister](https://unsplash.com/@mbaumi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/big-data?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</cite>
 
 <br>
 
